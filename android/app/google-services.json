@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "355447336370",
+    "project_id": "school-of-christ-52b7b",
+    "storage_bucket": "school-of-christ-52b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355447336370:android:790617c2857dd6381888ab",
+        "android_client_info": {
+          "package_name": "com.genesiscreations.kdeccourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355447336370-8915m9ck7q2f5i8b110lglr0i6foj9hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHYnSws4c-VBlYHx2gzlanydYCzocRLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355447336370-8915m9ck7q2f5i8b110lglr0i6foj9hp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355447336370-qbu974f69vqbg6gq17eg7fvspula8agi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.genesiscreations.schoolofchrist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
